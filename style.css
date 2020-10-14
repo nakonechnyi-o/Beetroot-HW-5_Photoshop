@@ -2,39 +2,29 @@
     background-color: black;
 }
 .logo {
-    display: flex;
-    justify-content: center;
     margin-top: 120px;
     margin-bottom: 55px;
 }
 #text {
-    display: flex;
-    justify-content: center;
     color: #fff;
     font-family: "Open Sans";
     font-size: 20px;
 }
 .social {
-    display: flex;
-    justify-content: center;
     margin-top: 20px;
     margin-bottom: 30px;
 }
 #line {
-    display: flex;
-    justify-content: center;
     margin-top: 20px;
     margin-bottom: 15px;
 }
-#item {
+#item1, #item2, #item3, #item4 {
     margin-left: 20px;
     margin-right: 20px;
 }
 .copyright {
-    display: flex;
     margin-top: 90px;
     margin-bottom: 38px;
-    justify-content: center;
     color: white;
     font-size: 15px;
     font-family: "Open Sans";
